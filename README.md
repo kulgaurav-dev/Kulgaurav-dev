@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**kulgaurav-dev/Kulgaurav-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Kul Gaurav 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">First-Year CSE Student | Exploring the World of Technology</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 🐍 Currently learning Python
+- 💡 Interested in Software Development and Problem Solving
+- 🚀 Building projects and learning by doing
+- 🌱 Always curious to explore new technologies
+
+### 🛠️ Currently Learning
+
+- Python
+- Git & GitHub
+- Web Development
+
+### 🎯 2026 Goals
+
+- Strengthen programming fundamentals
+- Build real-world projects
+- Contribute to collaborative projects
+- Build a strong developer portfolio
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/kul-gaurav-hooda-064960433?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
+
+<p align="center">
+  <i>Learning, building, and improving — one project at a time.</i>
+</p>
